@@ -210,6 +210,7 @@ La sortie de DeGenPrime contient le numéro de micfam du gène, ce numéro est a
 **Note :** Les exemples de commandes d'installation sont pour les systèmes d'exploitation Linux.
 
 - **MaGe Genoscope** : Pour générer le core-genome
+
 Trouvable au lien suivant :
 
 https://mage.genoscope.cns.fr/microscope/home/index.php
