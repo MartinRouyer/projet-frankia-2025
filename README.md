@@ -271,6 +271,31 @@ pip install <nom_package_python_a_installer>
 
 --- 
 
+### Génomes Bactériens du Sol
+
+**Liste des génomes bactériens utilisés pour évaluer la spécificité de nos amorces :**
+
+- **Escherichia coli** : GCF_000005845.2
+- **Klebsiella pneumoniae** : GCA_000240185.2
+- **Pseudomonas aeruginosa** : GCA_000006765.1
+- **Salmonella enterica** : GCA_000006945.2
+- **Shigella sonnei** : GCA_002950395.1
+- **Proteus mirabilis** : GCA_000069965.1
+- **Bifidobacterium longum** : GCA_000196555.1
+- **Bifidobacterium adolescentis** : GCA_000010425.1
+- **Actinobacteria bacterium** : GCA_016700055.1
+- **Mycobacterium tuberculosis** : GCA_000195955.2
+- **Mycobacteroides abscessus** : GCA_000069185.1
+- **Streptomyces scabiei** : GCA_000091305.1
+- **Bacillus anthracis** : GCA_000008445.1
+- **Listeria monocytogenes** : GCA_000196035.1
+- **Staphylococcus aureus** : GCA_000013425.1
+- **Streptococcus pneumoniae** : GCA_0001457635.1
+- **Enterococcus faecalis** : GCA_000393015.1
+- **Clostridia bacterium** : GCA_016887505.1
+
+---
+
 ## Organisation du repertoire data/pcr_silico_results
 
 Ce répertoire contient les résultats de l'analyse PCR in silico pour différents ensembles de données. Voici une explication de la structure des dossiers et de la nomenclature des fichiers.
