@@ -1,0 +1,6 @@
+gene	amps_nb	mean_amp_length	count_I	count_II	count_III	count_IV	distinct_clusters	%_amp_I	%_amp_II	%_amp_III	%_amp_IV	%genomes_amp
+atpD	36.0	755.0	21.0	0.0	9.0	6.0	3	95.45	0.0	100.0	75.0	87.8
+ftsZ	23.0	757.0	16.0	0.0	7.0	0.0	2	72.73	0.0	77.78	0.0	56.1
+pgk	14.0	710.0	8.0	0.0	6.0	0.0	2	36.36	0.0	66.67	0.0	34.15
+dnaA			0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	
+rpoB			0.0	0.0	0.0	0.0	0	0.0	0.0	0.0	0.0	

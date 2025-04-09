@@ -1,0 +1,8 @@
+AmpId	SequenceId	PositionInSequence	Length
+ftsZ	No amplification
+pgk	No amplification
+dnaA	No amplification
+atpD_amp_1	CP064997.1	1046622	755
+atpD_amp_2	NC_013929.1	3277531	755
+rpoB_amp_1	NC_000962.3	760898	438
+rpoB_amp_2	NC_015067.1	510879	438

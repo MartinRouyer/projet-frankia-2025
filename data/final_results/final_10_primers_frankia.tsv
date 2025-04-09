@@ -1,0 +1,11 @@
+primerId	gene	description	mean_amp_length	forward	reverse
+20371_4	glgP	Glycogen phosphorylase	584	ATCGTCAGCCGGGAGATGT	GCCATGCCGATGTCGTAGT
+20371_7	glgP	Glycogen phosphorylase	553	AGATCTGGAAGGCGCAGGT	AACATCTCCCGGCTGACGA
+20_10	rpsB	30S ribosomal protein S2	533	TGGAACCCGAAGATGAAGCG	ATCGGGTAGTCGACCTCGTC
+39665_8	glnII	Glutamine synthetase	519	GGCCGAGTACATCTGGATCG	TCCCACTGGCCCATCATGA
+25479_1	ctaE/ctaF	Cytochrome c oxidase polypeptide III (Cytochrome AA3 subunit 3)	495	TGTCGTCGGAGCTGATGTTC	CGTCGACGAAGTGCCAGTAG
+25479_4	ctaE/ctaF	Cytochrome c oxidase polypeptide III (Cytochrome AA3 subunit 3)	489	TCGGAGCTGATGTTCTTCGC	GTCGACGAAGTGCCAGTAGT
+30895_6		TldD family protein, Actinobacterial subgroup	479	TGGCTGACGATCCACGAGT	TTGTACCGCTGCATGTCGAT
+30895_10		TldD family protein, Actinobacterial subgroup	471	GTGGCTGACGATCCACGAGT	TGCATGTCGATCGACCAGCT
+536_20	rpoA	RNA polymerase (alpha subunit)	387	TCGAGATCGAGCTGACCGT	AGTTGTAGGAGCGGACGGT
+5538_5	purC	Phosphoribosylaminoimidazole-succinocarboxamide synthase	323	CTGTGGTGGTTCGACCAGCT	CGGCTGATGTTCTCGTCGTG

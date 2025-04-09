@@ -1,0 +1,6 @@
+AmpId	SequenceId	PositionInSequence	Length
+ftsZ	No amplification
+pgk	No amplification
+dnaA	No amplification
+atpD	No amplification
+rpoB	No amplification
