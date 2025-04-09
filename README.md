@@ -211,6 +211,7 @@ La sortie de DeGenPrime contient le numéro de micfam du gène, ce numéro est a
 
 - **MaGe Genoscope** : Pour générer le core-genome
 Trouvable au lien suivant :
+
 https://mage.genoscope.cns.fr/microscope/home/index.php
 
 (Onglet Comparative Genomics, Pan/Core-genome)
