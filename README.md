@@ -68,7 +68,7 @@ python3 scripts/3_align_and_tree_core.py <input_genome_core_reform_filt.fasta>
 
 ---
 
-## Étape 4 : Design de Primers avec Degenprime
+## Étape 4 : Design de Primers avec DeGenPrime
 
 **Objectif :** Générer des primers qui amplifient le plus de séquences possibles dans l'alignement.
 
@@ -196,6 +196,7 @@ python3 7_2_split_output_fasta_in_silico_pcr_reformated.py <input_amplicons_refo
 - **Absence de Bases Dégénérées :** Critère bonus pour restreindre davantage la liste des candidats.
 
 **Commentaires :** La résolution taxonomique a été évaluée en alignant les amplicons pour un primer (avec MAFFT option --adjustdirection qui permet de corriger les différentes orientations de nos amplicons comme l'option -r avec in_silico_pcr n'a pas été utilisée), puis en créant un arbre phylogénétique (avec PhyML sur Seaview, un logiciel pratique pour manipuler des séquences, les aligner puis faire des arbres).
+La sortie de DeGenPrime contient le numéro de micfam du gène, ce numéro est attribué automatiquement par MaGe Genoscope lors de la création du fichier de core-genome. Se référer au fichier cité (data/genomes/core_50%aa_80%cov/41_frankia_core_filtered.tsv) pour faire la correspondance.
 
 **MAFFT :** Katoh, K., Standley, D.M., 2013. MAFFT Multiple Sequence Alignment Software Version 7: Improvements in Performance and Usability. Mol Biol Evol 30, 772–780. https://doi.org/10.1093/molbev/mst010
 
@@ -207,6 +208,12 @@ python3 7_2_split_output_fasta_in_silico_pcr_reformated.py <input_amplicons_refo
 
 ### Logiciels
 **Note :** Les exemples de commandes d'installation sont pour les systèmes d'exploitation Linux.
+
+- **MaGe Genoscope** : Pour générer le core-genome
+Trouvable au lien suivant :
+https://mage.genoscope.cns.fr/microscope/home/index.php
+
+(Onglet Comparative Genomics, Pan/Core-genome)
 
 - **MUSCLE** : Pour l'alignement multiple des séquences.
 
@@ -242,7 +249,7 @@ Version utilisée : seaview 5.0.5
 Installation depuis : 
 http://doua.prabi.fr/software/seaview
 
-- **DegenPrime** : Pour le design des primers avec possbilité de bases dégénérées.
+- **DeGenPrime** : Pour le design des primers avec possbilité de bases dégénérées.
 
 Version utilisée : degenprime version 0.1.2
 
@@ -270,6 +277,8 @@ pip install <nom_package_python_a_installer>
 ```
 
 --- 
+
+
 
 ### Génomes Bactériens du Sol
 
