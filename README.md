@@ -196,6 +196,7 @@ python3 7_2_split_output_fasta_in_silico_pcr_reformated.py <input_amplicons_refo
 - **Absence de Bases Dégénérées :** Critère bonus pour restreindre davantage la liste des candidats.
 
 **Commentaires :** La résolution taxonomique a été évaluée en alignant les amplicons pour un primer (avec MAFFT option --adjustdirection qui permet de corriger les différentes orientations de nos amplicons comme l'option -r avec in_silico_pcr n'a pas été utilisée), puis en créant un arbre phylogénétique (avec PhyML sur Seaview, un logiciel pratique pour manipuler des séquences, les aligner puis faire des arbres).
+
 La sortie de DeGenPrime contient le numéro de micfam du gène, ce numéro est attribué automatiquement par MaGe Genoscope lors de la création du fichier de core-genome. Se référer au fichier cité (data/genomes/core_50%aa_80%cov/41_frankia_core_filtered.tsv) pour faire la correspondance.
 
 **MAFFT :** Katoh, K., Standley, D.M., 2013. MAFFT Multiple Sequence Alignment Software Version 7: Improvements in Performance and Usability. Mol Biol Evol 30, 772–780. https://doi.org/10.1093/molbev/mst010
